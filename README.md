@@ -1,1 +1,1 @@
-# ClusteringExc2
+# Example of README.md
